@@ -13,7 +13,6 @@ def prime(p):
 t = int(input())
 for j in range(t):
     n = int(input())
-    maxp = 0
     for k in range(1,n+1):
         if n%k==0:
             if prime(n//k):
