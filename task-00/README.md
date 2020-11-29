@@ -1,1 +1,1 @@
-
+<p>I was planing to buy a MacBook next year, If it is not possible I will dual boot it. I think using linux is much important for programmers, till now I don't know much on linux, But surely I will learn and use it in the comming days.</p>
