@@ -1,5 +1,7 @@
 # amfoss-tasks
 
+<p>Hi I'm Akhil S Kumar pursuing BTECH in EAC at Amrita Vishwa Vidyapeetham at Amritapuri campus, and I'm very much thankful to my seniors for helping me to complete the tasks whenever I had a trouble.</p>
+
 <h1>Completed Tasks</h1>
 
 | Task | Description | Status |
