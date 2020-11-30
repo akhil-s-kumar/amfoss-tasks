@@ -4,7 +4,7 @@
 | Task | Description | Status |
 | --- | --- | --- |
 | Task 01 | Stared all repositories of amFOSS | Completed |
-| Task 02 | Registered nick "IamAkhilSKumar" | Completed |
+| Task 02 | Registered nick IamAkhilSKumar | Completed |
 | Task 03 | Hackerrank Completed 7 | Completed |
 | Task 04 | Removed all errors | Completed |
 | Task 06 | Fetched memes and UpVoted | Completed |
