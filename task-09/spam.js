@@ -1,12 +1,11 @@
-msg = "Hi";
-time = 1  ; 
-times = 10 ;
-a = 0 ;
+timelag = 1; 
+times = 10;
+ittrate = 0;
 spammsg = setInterval(function(){
-document.getElementsByClassName('composer_rich_textarea')[0].innerHTML = msg;
+document.getElementsByClassName('composer_rich_textarea')[0].innerHTML = "Hi";
 $('.im_submit_send').trigger('mousedown');	
-a++;
+ittrate++;
 
-if( a  === times )
+if( ittrate  === times )
 clearInterval(spammsg);
-} , time * 1000 ) ;
+} , timelag * 1000 ) ;
