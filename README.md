@@ -17,11 +17,13 @@
 | Task 15 | Project Euler Completed 3 | Completed |
 
 <h1>Partially Completed</h1>
+
 | Task | Description | Status |
 | --- | --- | --- |
 | Task 03 | Hackerrank partially complted 3 | Timeout Error |
 
 <h1>Not Completed</h1>
+
 | Task | Description | Status |
 | --- | --- | --- |
 | Task 05 | link.exe error | Pending |
