@@ -11,6 +11,21 @@
 | Task 06 | Fetched memes and UpVoted | Completed |
 | Task 07 | Created Flutter Onboarding | Completed |
 | Task 09 | Spammed Hi Message | Completed |
+| Task 10 | CS50 completed hello.c | Completed |
 | Task 11 | Poster design | Completed |
 | Task 13 | Circuit design | Completed |
 | Task 15 | Project Euler Completed 3 | Completed |
+
+<h1>Partially Completed</h1>
+| Task | Description | Status |
+| --- | --- | --- |
+| Task 03 | Hackerrank partially complted 3 | Timeout Error |
+
+<h1>Not Completed</h1>
+| Task | Description | Status |
+| --- | --- | --- |
+| Task 05 | link.exe error | Pending |
+| Task 08 | pip error | Pending |
+| Task 10 | CS50 PSET | Pending |
+| Task 12 | Codechef | Pending |
+| Task 14 | Bandit | Pending |
