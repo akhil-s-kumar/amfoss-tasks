@@ -1,6 +1,7 @@
 # amfoss-tasks
 
 <h1>Completed Tasks</h1>
+
 | Task | Description | Status |
 | --- | --- | --- |
 | Task 01 | Stared all repositories of amFOSS | Completed |
