@@ -6,7 +6,7 @@
 
 | Task | Description | Status |
 | --- | --- | --- |
-| Task 01 | Stared all repositories of amFOSS | Completed |
+| [Task 01](https://github.com/akhil-s-kumar/amfoss-tasks/tree/main/task-01) | Stared all repositories of amFOSS | Completed |
 | Task 02 | Registered nick IamAkhilSKumar | Completed |
 | Task 03 | Hackerrank Completed 7 | Completed |
 | Task 04 | Removed all errors | Completed |
